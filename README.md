@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Banner Image](https://raw.githubusercontent.com/ornob90/ornob90/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
+
+
 <!--
 **ornob90/ornob90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
