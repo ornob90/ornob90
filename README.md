@@ -4,11 +4,11 @@
 
 
 # 💫 About Me:
-👋 Kazi Towfiq, a final year Computer Science student at East West University in Dhaka, Bangladesh.
-🚀 Actively seeking job opportunities. With a strong foundation in the MERN stack.
-🛠️ I'm currently immersed in a dynamic e-commerce project, enhancing my skills in MongoDB, Express.js, React.js, and Node.js. 
-🎓 As I approach graduation, my goal is to leverage my expertise in web development to contribute to innovative projects and collaborate with forward-thinking teams. 
-🌟 Excited about the possibilities, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's build something amazing together! 🚀
+- 👋 I'm Kazi Towfiq, a final year Computer Science student at East West University in Dhaka, Bangladesh.
+- 🚀 Actively seeking job opportunities. With a strong foundation in the MERN stack.
+- 🛠️ I'm currently immersed in a dynamic e-commerce project, enhancing my skills in MongoDB, Express.js, React.js, and Node.js. 
+- 🎓 As I approach graduation, my goal is to leverage my expertise in web development to contribute to innovative projects and collaborate with forward-thinking teams. 
+- 🌟 Excited about the possibilities, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's build something amazing together! 🚀
 
 
 ## 🌐 Socials:
