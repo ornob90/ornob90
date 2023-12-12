@@ -1,4 +1,7 @@
-### Hi there 👋
+### My work 
+```
+https://towfiq-portfolio.vercel.app
+```
 
 ![Banner Image](https://raw.githubusercontent.com/ornob90/ornob90/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
 
@@ -11,11 +14,7 @@
 - 🌟 Excited about the possibilities, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's build something amazing together! 🚀
 
 
-# Portfolio
 
-```
-https://towfiq-portfolio.vercel.app
-```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-towfiq-7b0a08266)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazitowfiq58@gmail.com)
