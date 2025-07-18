@@ -4,17 +4,13 @@
 
 
 # 💫 About Me:
-- 👋 I'm Kazi Towfiq, a final year Computer Science student at East West University in Dhaka, Bangladesh.
-- 🚀 Actively seeking job opportunities. With a strong foundation in the MERN stack.
-- 🛠️ I'm currently immersed in a dynamic e-commerce project, enhancing my skills in MongoDB, Express.js, React.js, and Node.js. 
-- 🎓 As I approach graduation, my goal is to leverage my expertise in web development to contribute to innovative projects and collaborate with forward-thinking teams. 
-- 🌟 Excited about the possibilities, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's build something amazing together! 🚀
+- 👋 I'm Kazi Towfiq, a Full Stack Developer with hands-on experience in building scalable, production-grade web applications.
+- 🎓 I hold a BSc in Computer Science from East West University, Dhaka, Bangladesh (2020–2025).
+- 🛠️ My core strengths lie in the MERN stack (MongoDB, Express.js, React.js, Node.js) along with modern tools like Next.js, Nest.js, and Tailwind CSS.
+- 🌐 I’ve contributed to real-world projects across industries—from messaging platforms to weather tracking apps—collaborating with global teams remotely.
+- 🚀 I'm passionate about writing clean, maintainable code, optimizing performance, and integrating APIs like Twilio, Gmail, Shopify, and Wise to build impactful user experiences.
 
 
-## Portfolio
-```
-https://towfiq-portfolio.vercel.app
-```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-towfiq-7b0a08266)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazitowfiq58@gmail.com)
